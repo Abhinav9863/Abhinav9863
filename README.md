@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi There 👋
 
 <!--
 **Abhinav9863/Abhinav9863** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
