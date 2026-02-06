@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **abhinavvishnumohan21@gmail.com**
 
-- 📄 Know about my experiences [link](link)
+- 📄 Know about my experiences [resume](https://github.com/Abhinav9863/RESUME/blob/main/resume.abhinav.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
