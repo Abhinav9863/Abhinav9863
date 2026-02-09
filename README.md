@@ -74,7 +74,7 @@ My work is centered around leveraging Artificial Intelligence and Fullstack tech
 
 **<u>**🎓 Education**</u>** <br>
 B.Tech in Computer Science (Core)
-Vellore Institute of Technology, Bhopal (2022 - 2026) | CGPA: 8.03/10
+Vellore Institute of Technology  (2022 - 2026) | CGPA: 8.03/10
 
 **<u>**🏆 Achievements & Contributions**</u>** <br>
 - **Hackathons**: Participated in National Road Safety Hackathon 2025 (NHAI & HOAI).
