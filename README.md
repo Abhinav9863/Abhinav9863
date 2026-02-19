@@ -24,7 +24,7 @@ Passionate Fullstack AI Developer with a strong foundation in Computer Science a
 - 📝 I regularly write articles on [https://abhinavvishnumohan.vercel.app/](https://abhinavvishnumohan.vercel.app/)
 - 💬 Ask me about **Development, AI integrations**
 - 📫 How to reach me **abhinavvishnumohan21@gmail.com**
-- 📄 Know about my experiences [resume](https://github.com/Abhinav9863/RESUME/blob/main/resume.abhinav.pdf)
+- 📄 Know about my experiences [resume](https://github.com/Abhinav9863/RESUME/blob/main/resume_abhinav_vishnu_mohan01.pdf)
 
 **<u>**🛠️ Skills & Technologies**</u>**
 <br>
